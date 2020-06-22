@@ -71,8 +71,8 @@ upload test data
 
 ```cvrp-app/tests/vrp_testing_data.csv```
 
-![](https://github.com/christopherpryer/cvrp-app/blob/master/docs/img/v0.0.2_upload.PNG?raw=true)
+![](https://github.com/christopherpryer/cvrp-poc/blob/master/docs/img/v0.0.2_upload.PNG?raw=true)
 
 pull cvrp service ```/cvrp```
 
-![](https://github.com/christopherpryer/cvrp-app/blob/master/docs/img/v0.0.8.PNG?raw=true)
+![](https://github.com/christopherpryer/cvrp-poc/blob/master/docs/img/v0.0.8.PNG?raw=true)
