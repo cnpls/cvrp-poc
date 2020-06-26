@@ -1,4 +1,4 @@
-![Python application](https://github.com/christopherpryer/cvrp-poc/workflows/Python%20application/badge.svg)
+![Python application](https://github.com/pybrgr/cvrp-poc/workflows/Python%20application/badge.svg)
 [![Discord](https://img.shields.io/discord/721862473132540007?label=discord&style=plastic)](https://discord.gg/wg7xSAf)
 [![Slack](https://img.shields.io/badge/slack-workspace-orange)](https://join.slack.com/t/andromiasoftware/shared_invite/zt-felqfjhs-Tvma8OYuCExxdmQgHOIGsg)
 
@@ -71,8 +71,8 @@ upload test data
 
 ```cvrp-app/tests/vrp_testing_data.csv```
 
-![](https://github.com/christopherpryer/cvrp-poc/blob/master/docs/img/v0.0.2_upload.PNG?raw=true)
+![](https://github.com/pybrgr/cvrp-poc/blob/master/docs/img/v0.0.2_upload.PNG?raw=true)
 
 pull cvrp service ```/cvrp```
 
-![](https://github.com/christopherpryer/cvrp-poc/blob/master/docs/img/v0.0.8.PNG?raw=true)
+![](https://github.com/pybrgr/cvrp-poc/blob/master/docs/img/v0.0.8.PNG?raw=true)
