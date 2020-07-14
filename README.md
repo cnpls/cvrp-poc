@@ -8,7 +8,7 @@ See [andromia](https://github.com/andromia) org for continued work.
   - TypeScript user authentication service
   - TypeScript user CRUD service
   
-TODO: https://vrp.modeldesign.studio
+TODO: https://vrp.solverstack.com
 
 # cvrp-app
 Development project for solving the vehicle routing problem via containerized microservices & a restful API implementation. **Note that the first few iterations will be monolithic.** The goal is to identify and abstract services for meaningful improvements.
