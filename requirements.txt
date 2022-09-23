@@ -39,7 +39,7 @@ packaging==20.4
 pandas==1.0.4
 pgeocode==0.2.1
 pluggy==0.13.1
-protobuf==3.12.2
+protobuf==3.18.3
 py==1.8.1
 PyJWT==1.7.1
 pyords
